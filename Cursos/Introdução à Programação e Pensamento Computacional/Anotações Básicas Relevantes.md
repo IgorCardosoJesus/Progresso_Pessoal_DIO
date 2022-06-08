@@ -5,19 +5,17 @@
 
 
 ##### Diversos #####
-
-
-
-<img src="C:\Users\Usuário\Pictures\Cap 1.png" alt="Instruções Primitivas." title="Instruções Primitivas que podem ser úteis" style="zoom:67%;" />
+<div align-"center">
+<img src="https://i.im.ge/2022/06/09/rkF7WK.png" width="500px" />
+</div>                                          
 
 <p> A respeito destas intruções primitivas, creio que vai fazer mais sentindo quanto mais o curso for avançando e eu for entendendo onde devo aplica-las </p>
 
-
-
-<img src="C:\Users\Usuário\Pictures\Cap 2.png" alt="Estruturas Condicionais." title="Operadores relacionais importantes" style="zoom:67%;" />
+<div align-"center">
+<img src="https://i.im.ge/2022/06/09/rkFUY8.png" width="500px" />
+</div>
 
 <p>Essas estruturas Condicionais são importantíssimas! </p>
-
 
 
 ##### Operadores Lógicos #####
@@ -26,8 +24,10 @@
 
 <p>-Encadeamento de condições</p>
 
-![Ilustração simples](C:\Users\Usuário\Pictures\Cap 3.png "Demonstração prática")
 
+<div align-"center">
+<img src="https://i.im.ge/2022/06/09/rkFEam.png" width="500px" />
+</div>
 
 
 **AND – OPERADOR LÓGICO (e) - UNIÃO**
@@ -44,13 +44,10 @@ Senao
 
 Escreva “Reprovado”
 
-
-
 **OR – OPERADOR LÓGICO (ou)** 
 
 Condição verdadeira – Apenas uma condição verdadeira 
 
- 
 
 **NOT – OPERADOR LÓGICO** 
 
